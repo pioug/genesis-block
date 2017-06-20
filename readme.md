@@ -59,8 +59,8 @@
 
 ### Smart contracts
 
-- [Create a Hello World Contract in Ethereum](https://www.ethereum.org/greeter)
-- [The Hitchhiker’s Guide to Smart Contracts in Ethereum (Medium)](https://medium.com/zeppelin-blog/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+- [Create a Hello World Contract in Ethereum](https://www.ethereum.org/greeter) - Create a smart contract with the development framework [Truffle](https://github.com/trufflesuite/truffle)
+- [The Hitchhiker’s Guide to Smart Contracts in Ethereum (Medium)](https://medium.com/zeppelin-blog/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05) - Create a smart contract with the original SDK
 - [Solidity documentation](https://solidity.readthedocs.io/) - Programming language for writing Ethereum smart contracts
 
 ### Mining
