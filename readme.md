@@ -49,6 +49,10 @@
 ### Introduction
 
 - [Okay, WTF Is Ethereum? (Motherboard)](https://motherboard.vice.com/en_us/article/okay-wtf-is-ethereum)
+- An Introduction to Ethereum and Smart Contracts (Auth0)
+  - [Part 1: Bitcoin & The Blockchain](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts/)
+  - [Part 2: A Programmable Blockchain](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
+  - [Part 3: An Authentication Solution](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-3/)
 - [MyEtherWallet](https://www.myetherwallet.com/) - Client-side Ethereum wallet
 - [Etherscan](https://etherscan.io/) - Ethereum blockchain explorer
 - [Etherchain](https://etherchain.org/) - Ethereum blockchain explorer
